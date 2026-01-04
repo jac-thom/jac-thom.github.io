@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="home">
+          <img
+            src="{{ page.profile_picture.src | absolute_url }}"
+            alt="{{ page.profile_picture.alt }}"
+	    style="width: 50%; height: auto;"
+            class="profile-pic"
+          />
+
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>
