@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jacqueline R. Thompson, PhD
+title: Jacqueline R. Thompson
 email: jacqu.renee@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Personal website for Jacqueline R. Thompson, PhD.<br />
+  "We make our world significant by the courage of our questions and the depth of our answers."<br />
+  -Carl Sagan, Cosmos
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: jac-thom.github.io
 url: https://jac-thom.github.io # the base hostname & protocol for your site, e.g. http://example.com
