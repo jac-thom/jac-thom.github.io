@@ -8,14 +8,14 @@ profile_picture:
   alt: head shot
 ---
 
-### Current position
+<h2>Current position</h2>
 
 Postdoctoral researcher
 
-### Education
+<h2>Education</h2>
 
 Neuroscience PhD
 
-### Specialization
+<h2>Specialization</h2>
 
-Next-generation sequencing
+Next Generation Sequencing (NGS) analysis and interpretation

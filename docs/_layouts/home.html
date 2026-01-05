@@ -1,28 +1,14 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+---
+layout: default
+---
 
-  {%- include head.html -%}
+<div class="home">
+  <img
+    src="{{ page.profile_picture.src | absolute_url }}"
+    alt="{{ page.profile_picture.alt }}"
+    #style="width: 50%; height: auto;"
+    style="float: left; width: 50%; height: auto; border: #ccc 1px solid; border-radius: 3px; margin-right: 20px;"
+   />
 
-  <body>
-
-    {%- include header.html -%}
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="home">
-          <img
-            src="{{ page.profile_picture.src | absolute_url }}"
-            alt="{{ page.profile_picture.alt }}"
-	    #style="width: 50%; height: auto;"
-	    style="float: left; width: 50%; height: auto; border: #ccc 1px solid; border-radius: 3px; margin-right: 20px;"
-            #class="profile-pic"
-          />
-
-          {{ content }}
-        </div>
-      </div>
-    </div>
-
-    {% include footer.html %}
-  </body>
-</html>
+  {{ content }}
+</div>
