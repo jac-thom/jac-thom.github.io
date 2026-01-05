@@ -8,14 +8,21 @@ profile_picture:
   alt: head shot
 ---
 
+<p>
 <h2>Current position</h2>
 
-Postdoctoral researcher
+Postdoctoral researcher <br>
+<i> Johns Hopkins University, Dept. Biostatistics </i>
+<br><br>
 
 <h2>Education</h2>
 
-Neuroscience PhD
+Doctor of Philosophy <br>
+<i> SUNY Upstate Medical University, Neuroscience </i>
+<br><br>
 
 <h2>Specialization</h2>
 
 Next Generation Sequencing (NGS) analysis and interpretation
+
+</p>

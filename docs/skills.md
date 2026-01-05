@@ -2,6 +2,7 @@
 layout: page
 title: Skills and Proficiencies
 permalink: /skills/
+order: 2
 ---
 
 ### Oh hai, an unordered list!!
