@@ -5,15 +5,49 @@ permalink: /skills/
 order: 2
 ---
 
-### Oh hai, an unordered list!!
+<h3> Data modalities </h3>
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+- 10X 3’ Visium (55um)
+- 10X VisiumHD (some experience)
+- 10X single-cell RNAseq
+- 10X single-nuclei RNAseq
+- 10X multiomic snRNAseq and snATACseq
+- Oxford Nanopore cDNA long-read sequencing
 
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-- Fifth item, nested!
-  - So la ti do
-  - Ba-da-bing!
-  - Ba-da-boom!
+<h3> Languages/ Platforms </h3>
+
+- Standard best practices operations
+  - Slurm high-performance computing environment,
+  - Git version history control
+  - Conda/ pip environment controls
+- Command-line
+  - Tools for long read (bamtools, etc)
+  - ATAC tools (MACS2, etc)
+  - 10X cellranger and spaceranger
+- R
+  - Bioconductor workflow
+  - Seurat workflow
+- Python
+  - Scanpy workflow
+  - PyCharm/ Tensorflow
+ 
+<h3> Data processing </h3>
+
+- Clustering
+  - k-means clustering, graph-based clustering (Leiden, Louvain), spatially aware hidden Markov random field clustering models (BayesSpace, PRECAST)
+- Differential expression models
+  - Pseudobulk: limma/ edgeR (eBayes), DESeq2 (apeglm shrinkage)
+  - Single-cell: MAST, Wilcoxon
+  - Differential accessibility (ATAC)
+- Integration
+  - Batches: Seurat, MNN, Harmony, scVI
+  - Multi-omic: Seurat/Signac, ArchR
+  - Multi-modal: NMF
+  - Genomic: PRS, LDSC, MAGMA
+- Gene set analysis
+  - GSEA (fgsea), ORA (clusterProfiler, EnrichR)
+- Gene regulatory networks
+  - hdWGCNA, scGREAT, SCENIC
+
+
+
