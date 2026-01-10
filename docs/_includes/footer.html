@@ -10,9 +10,8 @@
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
-	    </li>
             {%- if site.linkedin_path -%}
-            <li><a href={{site.linkedin_path}}><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>LinkedIn</a>
+            <li><a href={{site.linkedin_path}}><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>LinkedIn</a></li>
             {%- endif -%}
         </ul>
       </div>
