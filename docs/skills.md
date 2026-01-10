@@ -6,23 +6,23 @@ order: 2
 items:
   - title: Clustering
     image:
-      src: /assets/img/water.png
-      alt: water
+      src: /assets/img/cluster.png
+      alt: cluster TSNE
     description: k-means clustering, graph-based clustering (Leiden, Louvain), spatially aware hidden Markov random field clustering models (BayesSpace, PRECAST)
-  - title: Differential expression models
-    image:
-      src: /assets/img/sand.png
-      alt: sand
-    description: Pseudobulk (limma/ edgeR (eBayes), DESeq2 (apeglm shrinkage)), Single-cell (MAST, Wilcoxon), ATAC differential accessibility
   - title: Integration
     image:
-      src: /assets/img/Picture1.png
-      alt: MNN integration
+      src: /assets/img/dna.png
+      alt: DNA helix
     description: Batches (Seurat, MNN, Harmony, scVI), Multi-omic (Seurat/Signac, ArchR), Multi-modal (NMF), Genomic (PRS, LDSC, MAGMA, eQTL)
+  - title: Differential expression models
+    image:
+      src: /assets/img/volcano.png
+      alt: volcano plot
+    description: Pseudobulk (limma/ edgeR (eBayes), DESeq2 (apeglm shrinkage)), Single-cell (MAST, Wilcoxon), ATAC differential accessibility
   - title: Gene sets and networks
     image: 
-      src: /assets/img/water.png
-      alt: sand
+      src: /assets/img/gene-net.png
+      alt: gene netword
     description: GSEA (fgsea), ORA (clusterProfiler, EnrichR), hdWGCNA, scGREAT, SCENIC
 ---
 
