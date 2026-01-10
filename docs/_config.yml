@@ -20,11 +20,14 @@
 
 title: Jacqueline R. Thompson, PhD
 email: jacqu.renee@gmail.com
+linkedin_path: https://www.linkedin.com/in/jacqueline-r-thompson-6a478a159/
 description: Personal website for Jacqueline R. Thompson
 quote: "We make our world significant by the courage of our questions and the depth of our answers. <br> -Carl Sagan"
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: jac-thom.github.io
 url: https://jac-thom.github.io # the base hostname & protocol for your site, e.g. http://example.com
+
+# Socials
 github_username:  jac-thom
 
 # Build settings
