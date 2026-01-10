@@ -4,7 +4,7 @@
 
 layout: home
 profile_picture:
-  src: /assets/img/id_photo.jpg
+  src: /assets/img/id_photo_frame.png
   alt: head shot
 ---
 
