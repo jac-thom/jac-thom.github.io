@@ -14,17 +14,17 @@ items:
     image:
       src: /assets/img/dna.png
       alt: DNA helix
-    description: There are different motivations for integrating NGS data. Large sequencing studies are often sequenced in batches that introduce un-wanted techinical variation that I have addressed with different tools that each have a unique statistical approach (Seurat, FastMNN, Harmony, scVI). NGS data from different modalities or from different species can be integrated through the subsequent use of label transfer (Seurat, scVI, NMF). A current priority in clinical research is to integrate genomic and transcriptomic sequencing. In the absence of paired genomic sequencing, I have leveraged GWAS data to estimate the relevance of gene sets to human disease (MAGMA, s-LDSC). With paired genomic data, I am currently performing eQTL analysis and mendelian randomization analysis to directly integrate genomic and transcriptomic information.
+    description: There are different motivations for integrating NGS data. Large sequencing studies are often sequenced in batches that introduce un-wanted techinical variation that I have addressed with different tools that each have a unique statistical approach (Seurat, FastMNN, Harmony, scVI). I have integrated NGS data from different modalities or from different species through the subsequent use of label transfer (Seurat, scVI, NMF). A current priority in clinical research is to integrate genomic and transcriptomic sequencing. In the absence of paired genomic sequencing, I have leveraged GWAS data to estimate the relevance of gene sets to human disease (MAGMA, s-LDSC). With paired genomic data, I am currently performing eQTL analysis and to directly integrate genomic and transcriptomic information and to test causal association with mendelian randomization analysis.
   - title: Differential expression models
     image:
       src: /assets/img/volcano.png
       alt: volcano plot
-    description: Pseudobulk (limma/ edgeR (eBayes), DESeq2 (apeglm shrinkage)), Single-cell (MAST, Wilcoxon), ATAC differential accessibility
+    description: Differential expression (DE) modeling is fundamental to most hypothesis testing with NGS data and I have implemented both single-observation models for RNA-sequencing (MAST, Wilcoxon signed rank test) and pseubo-bulk observation models for RNA-sequencing and ATAC-sequencing (limma, edgeR, DESeq2). I have performed DE modeling for both simple and complex experimental designs, gaining both the experience and statistical expertise to navigate the many assumptions and considerations that make a critical difference when interpreting DE models.
   - title: Gene sets and networks
     image: 
       src: /assets/img/gene-net.png
-      alt: gene netword
-    description: GSEA (fgsea), ORA (clusterProfiler, EnrichR), hdWGCNA, scGREAT, SCENIC
+      alt: gene network
+    description: (WIP) Gene sets that are produced by DE models. Genes sets that are produced by co-expression networks (hdWGCNA). Gene sets/ networks can be examined  pathway analysis techniques like gene set enrichment analysis (fgsea) and over-representation analysis (clusterProfiler, EnrichR). Gene sets/ networks can be examined for gene regulatory networks (SCENIC). Multiomic and SCENIC+ or linger? Mention motif enrichment.
 ---
 
 <p>
