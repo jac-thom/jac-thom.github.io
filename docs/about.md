@@ -7,6 +7,7 @@ profile_picture:
   src: /assets/img/id_photo_frame.png
   alt: head shot
 ---
+<h1 class="page-heading">{{ page.title }}</h1>
 <p style="font-size:120%">
 Science depends upon values, both quantitative and personal. Here are some of my values and what they mean to me.
 </p>

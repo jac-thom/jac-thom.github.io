@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Skills and proficiencies
+title: Skills and Proficiencies
 permalink: /skills
 order: 2
 items:
@@ -26,8 +26,6 @@ items:
     description: GSEA (fgsea), ORA (clusterProfiler, EnrichR), hdWGCNA, scGREAT, SCENIC
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
-<br />
 Data modalities: 10X spatial transcriptomics (3’ Visium (55um), VisiumHD), 10X single-cell and single-nuclei RNAseq, 10X multiomic snRNAseq and snATACseq, Oxford Nanopore long-read RNAseq
 <br />
 Standard best practices operations: Slurm high-performance computing environment, Git version history control Conda/ pip environment controls
