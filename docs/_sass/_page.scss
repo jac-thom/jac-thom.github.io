@@ -1,20 +1,25 @@
 .group {
   border: 2px solid #529193;
+  margin-bottom: 30px;
   &_header {
     font-size: 160%;
     text-align: center;
     background: #8ED6D5;
   }
   &_description {
-    line-height: 1;
+    #line-height: 1;
     margin-left: 10px;
   }
   &_list {
-    #list-style: none;
-    border: 1px solid black;
-    margin-right: 20px; 
+    #border: 1px solid black;
+    margin-right: 20px;
+    line-height: 1.2; 
+  }
+  &_list li {
+    margin-bottom: 10px;
   }
   &_list li::marker {
-    content: '\273C';
+    content: '\2662';
+    font-size: .8em;
   }
 }
