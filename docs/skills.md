@@ -26,12 +26,9 @@ items:
     description: GSEA (fgsea), ORA (clusterProfiler, EnrichR), hdWGCNA, scGREAT, SCENIC
 ---
 
-Data modalities: 10X spatial transcriptomics (3’ Visium (55um), VisiumHD), 10X single-cell and single-nuclei RNAseq, 10X multiomic snRNAseq and snATACseq, Oxford Nanopore long-read RNAseq
-<br />
-Standard best practices operations: Slurm high-performance computing environment, Git version history control Conda/ pip environment controls
-<br />
-Command-line tools: Tools for long read (bamtools, etc), ATAC tools (MACS2, etc), 10X cellranger and spaceranger.
-<br />
-Languages: R (Bioconductor workflow, Seurat workflow), Python (Scanpy workflow, PyCharm/ Tensorflow)
-<br />
-<br />
+<p>
+  The methodology implemented for any NGS project depends on the data modality, the project design, and the hypotheses being tested. For the past five years I have worked extensively with RNA-sequencing data (single-cell, single-nuclei, spatial, long-read) and multiomic sequencing data (single-nuclei RNA-sequencing and ATAC-sequencing). Here, I summarize methods that highlight my expertise with NGS analysis, gathered over many different projects. 
+</p>
+<p>
+  Working with NGS data requires extensive organization and documentation that are often implemented in high-performance computing environments and achieved with tools like Github for version control and conda or pip package management. My experience with different sequencing techniques has given me the skills to be comfortable processing NGS data from fastq files, manually performing quality control, barcode extraction, read alignment, and read quantification. Across the years I have used R and Python extensively, executing code with bash scripts, Jupyter Notebook, and integrated development environments like RStudio and PyCharm. I have worked with all of the major NGS processing pipelines including BioConductor, Seurat, and scanpy workflows.
+</p>
