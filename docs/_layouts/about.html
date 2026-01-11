@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="about">
+  <img class="about_pic"
+    src="{{ page.profile_picture.src | absolute_url }}"
+    alt="{{ page.profile_picture.alt }}"
+   />
+  <div class="about_text">
+    {{ content }}
+  </div>
+</div>
+
