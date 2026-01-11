@@ -24,7 +24,7 @@ items:
     image: 
       src: /assets/img/gene-net.png
       alt: gene network
-    description: (WIP) Gene sets that are produced by DE models. Genes sets that are produced by co-expression networks (hdWGCNA). Gene sets/ networks can be examined  pathway analysis techniques like gene set enrichment analysis (fgsea) and over-representation analysis (clusterProfiler, EnrichR). Gene sets/ networks can be examined for gene regulatory networks (SCENIC). Multiomic and SCENIC+ or linger? Mention motif enrichment.
+    description: Interpretating the gene extracted during analysis is one of the most difficult aspects of NGS data as it requires the marriage of computational and biological insight. A variety of complementary methods are used to find and interpret these sets of genes. To isolate genes of interest, I have used DE modeling, genes highly-weighted during integration (NMF), and gene co-expression networks (hdWGCNA). To extract biological information, I have used both gene set enrichment analysis (fgsea) and over-representation analysis (clusterProfiler, EnrichR) to query the gene sets and networks for a variety of annotation databases (GO, REACTOME, STRING). To identify transcription factors that could contribute the regulation of NGS gene sets I have used gene regulatory network (GRN) analysis with transcriptomic data (SCENIC). With paired RNA-sequencing and ATAC-sequencing multiomic data, more GRN analyses are possible (SCENIC+, Linger), and I have also performed motif enrichment and peak-to-gene linkage analysis (ArchR, Signac).
 ---
 
 <p>
