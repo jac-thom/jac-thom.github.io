@@ -1,6 +1,7 @@
 .group {
-  border: 2px solid #529193;
+  border: 2px solid #8ED6D5;
   margin-bottom: 30px;
+  box-shadow: 5px 5px 8px #adadad;
   &_header {
     font-size: 160%;
     text-align: center;
@@ -8,12 +9,14 @@
   }
   &_description {
     #line-height: 1;
+    padding: 5px;
     margin-left: 10px;
   }
   &_list {
     #border: 1px solid black;
     margin-right: 20px;
     line-height: 1.2; 
+    font-size: .8em;
   }
   &_list li {
     margin-bottom: 10px;

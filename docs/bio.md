@@ -6,27 +6,38 @@ order: 1
 ---
 
 <div class="group">
-  <p class="group_header">Systems perspective</p>
+  <p class="group_header">Early Career Research</p>
   <p class="group_description">
-    My investigations have focused on central nervous system outcomes with a systems biology perspective.
+    My early research experience with non-human primates was part of a multi-disciplinary grant encompassing metabolic health, gestation, neurodevelopment, and behavior.
+    These projects taught me to value and appreciate the interplay between organ systems and highlighted that there are no unimportant cell types or cell functions. 
   </p>
   <ul class="group_list">
     <li><span style="position: relative; left: 5px;">
-      My early research experience with non-human primates cemented/ established the importance of a systems biology approach. [one statement about the research goal/ project description (gestational metabolic, immune, neuro, behavioral), cite first authorships]. My experience in this position is how I found out I wanted to ask more mechanistic questions concerning molecular and cellular biology.
+      Thompson et al. (2017) "Exposure to a high-fat diet during early development programs behavior and impairs the central serotonergic system in juvenile non-human primates."
+      <a href="https://doi.org/10.3389/fendo.2017.00164">DOI: 10.3389/fendo.2017.00164</a>
     </span></li>
     <li><span style="position: relative; left: 5px;">
-      Whole-genome or whole-transcriptome NGS methods are great because they prevent blinders and allow for data-driven conclusions.
+      Thompson et al. (2018) "Maternal diet, metabolic state, and inflammatory response exert unique and long-lasting influences on offspring behavior in non-human primates."
+      <a href="https://doi.org/10.3389/fendo.2018.00161">DOI: 10.3389/fendo.2018.00161</a>
     </span></li>
+  </ul>
+  <p class="group_description">
+    My experience diving into the literature to contextualize our findings was crucial for my development as a scientist and led to becoming co-first author on a reivew publication.
+    Synthesizing prior resports with novel results remains a pillar of my research approach.
+  </p>
+  <ul class="group_list">
     <li><span style="position: relative; left: 5px;">
-      In my on-going postdoctoral research project, spatial 3’ RNA-sequencing has highlighted the importance of the neurovascular unit and glial function in persons with major depressive disorder and bipolar disorder (unpublished, submission date March 2026 with PsychENCODE V2).
+      DeCapo, Thompson, Dunn, and Sullivan (2019) "Perinatal Nutrition and Programmed Risk for Neuropsychiatric Disorders: A Focus on Animal Models"
+      <a href="https://dx.doi.org/10.1016/j.biopsych.2018.08.006">DOI: 10.1016/j.biopsych.2018.08.006</a>
     </span></li>
   </ul>
 </div>
 
 <div class="group">
-  <p class="group_header">Central dogma</p>
+  <p class="group_header">PhD Research</p>
   <p class="group_description">
-    My PhD training focused on activity-dependent transcriptional regulation in neurons (CITE BOOK CHAPTER). This specialization in the complex control of transcription is invaluable as someone who analyzes the readouts of NGS and interprets the potential in vivo impacts of gene expression changes.
+    My PhD training focused on activity-dependent transcriptional regulation in neurons (CITE BOOK CHAPTER). 
+    This specialization in the complex control of transcription is invaluable as someone who analyzes the readouts of NGS and interprets the potential in vivo impacts of gene expression changes.
   </p>
   <ul class="group_list">
     <li><span style="position: relative; left: 5px;">
@@ -45,8 +56,9 @@ order: 1
 </div>
 
 <div class="group">
-  <p class="group_header">Bridging the gap</p>
+  <p class="group_header">Postdoctoral Research</p>
   <p class="group_description">
+    [Bridging the gap]
     With my formal biological training and computational expertise, I am uniquely positioned to understand and handle the complexities of high-throughput NGS data.
   </p>
   <ul class="group_list">
