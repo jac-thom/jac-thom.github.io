@@ -9,7 +9,7 @@ order: 1
   <p class="group_header">Early Career Research</p>
   <p class="group_description">
     My early research experience with non-human primates was part of a multi-disciplinary grant encompassing metabolic health, gestation, neurodevelopment, and behavior.
-    These projects taught me to value and appreciate the interplay between organ systems and highlighted that there are no unimportant cell types or cell functions. 
+    These projects taught me to value and appreciate the interplay between organ systems and highlighted that there are no unimportant cell types or cell functions.
   </p>
   <ul class="group_list">
     <li><span style="position: relative; left: 5px;">
@@ -35,24 +35,33 @@ order: 1
 
 <div class="group">
   <p class="group_header">PhD Research</p>
-  <p class="group_description">
-    My PhD training focused on activity-dependent transcriptional regulation in neurons (CITE BOOK CHAPTER). 
-    This specialization in the complex control of transcription is invaluable as someone who analyzes the readouts of NGS and interprets the potential in vivo impacts of gene expression changes.
+  <p class="group_description">    
+    During my PhD, I contributed to a multi-disciplinary project investigating how neuronal activity promotes the functional development of neurons. 
+    My study of the regulation of gene expression during complex cellular circumstances led to a published book chapter.
   </p>
   <ul class="group_list">
     <li><span style="position: relative; left: 5px;">
-      In my current project we are incorporating genetic risk with our investigation of transcriptomic changes in persons with mood disorders.
+      Xue et al. (2026, under revision) "Spatiotemporal Mapping and Molecular Basis of Whole-brain Circuit Maturation."
+      <a href="https://doi.org/10.1101/2024.01.03.572456">DOI: 10.1101/2024.01.03.572456</a>
     </span></li>
     <li><span style="position: relative; left: 5px;">
-      ATACseq and epigenomic factors are important
-    </span></li>
-    <li><span style="position: relative; left: 5px;">
-      Mention TF and gene regulatory networks
-    </span></li>
-    <li><span style="position: relative; left: 5px;">
-      Mention interest in splicing and lncRNA
+      Thompson and Lin (2024) "Nature and Nurture Converge in the Nucleus to Regulate Activity-Dependent Neuronal Development."
+      <a href="https://doi.org/10.1007/978-3-031-68550-7_10">DOI: 10.1007/978-3-031-68550-7_10</a>
     </span></li>
   </ul>
+  <p class="group_description">
+    My reseach analyzing single-cell RNA-seqencing samples across multiple timepoints revealed specific molecular pathways involved in the activity-dependent development of dentate gyrus granule cells. 
+    From these candidate mechanisms, I identified a specific gene that follow-up experiments revealed played a role in advancing synaptic development. 
+  </p>
+  <ul class="group_list">
+    <li><span style="position: relative; left: 5px;">
+      Thompson (2024) "Novel signaling pathways driving experience-dependent maturation in dentate gyrus granule cells: a deep-sequencing approach."
+      <a href="http://hdl.handle.net/20.500.12648/14794">Dissertation URI</a>
+    </span></li>
+  </ul>
+  <p class="group_description"> 
+    My research expanded beyond transcriptomic read-outs to incorporating an epigenetic perspective with a multiomic study of paired RNA-sequencing and ATAC-sequencing in single-nuclei. 
+  </p>
 </div>
 
 <div class="group">
