@@ -2,7 +2,7 @@
 layout: work
 title: Skills and Proficiencies
 permalink: /skills
-order: 2
+order: 1
 intro: The methodology implemented for any NGS project depends on the data modality, the project design, and the hypotheses being tested. For the past five years I have worked extensively with RNA-sequencing data (single-cell, single-nuclei, spatial, long-read) and multiomic sequencing data (paired single-nuclei RNA-sequencing and ATAC-sequencing). Here, I summarize methods that highlight my expertise with NGS analysis, gathered over many different projects.
 items:
   - title: Clustering
