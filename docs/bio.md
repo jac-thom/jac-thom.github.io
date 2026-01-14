@@ -38,7 +38,7 @@ order: 2
 
 
 <div class="group">
-  <p class="group_header">PhD Research</p>
+  <p class="group_header">Doctoral Research</p>
 
   <p class="group_description">    
     During my PhD, I contributed to a large collaborative project investigating how neuronal activity promotes the functional development of neurons. 
@@ -57,7 +57,7 @@ order: 2
   </ul>
 
   <p class="group_description">
-    My reseach analyzing single-cell RNA-seqencing samples across multiple timepoints revealed specific molecular pathways involved in the activity-dependent development of dentate gyrus granule cells. 
+    My research analyzing single-cell RNA-sequencing samples across multiple timepoints revealed specific molecular pathways involved in the activity-dependent development of dentate gyrus granule cells. 
     From these candidate mechanisms, I identified a specific gene that follow-up experiments revealed played a role in advancing synaptic development. 
   </p>
 
@@ -77,7 +77,7 @@ order: 2
 
 
 <div class="group">
-  <p class="group_header">Early Career Research</p>
+  <p class="group_header">Postbaccalaureate Research</p>
 
   <p class="group_description">
     My early research experience with non-human primates was part of a multi-disciplinary grant encompassing metabolic health, gestation, neurodevelopment, and behavior.
@@ -97,8 +97,8 @@ order: 2
   </ul>
 
   <p class="group_description">
-    My experience diving into the literature to contextualize our findings was crucial for my development as a scientist and led to becoming co-first author on a reivew publication.
-    Synthesizing prior resports with novel results remains a pillar of my research approach.
+    My experience diving into the literature to contextualize our findings was crucial for my development as a scientist and led to becoming co-first author on a review publication.
+    Synthesizing prior reports with novel results remains a pillar of my research approach.
   </p>
 
   <ul class="group_list">
